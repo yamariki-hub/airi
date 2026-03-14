@@ -3,7 +3,7 @@ title: "特徴量エンジニアリング：何をモデルに入力するか"
 emoji: "🔧"
 type: "tech"
 topics: ["機械学習", "競艇", "Python", "データ分析", "特徴量"]
-published: false
+published: true
 price: 300
 ---
 
